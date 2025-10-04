@@ -15,7 +15,7 @@ Just drag and drop the provided file(s) onto the required folder to skip your fa
     
 ## Screenshots
 
-![App Screenshot](https://cdn.discordapp.com/attachments/648520680140439598/1423857812810764358/saves.png?ex=68e1d66c&is=68e084ec&hm=92e06f9407325c158f49efaaae59f661bd084261d2e879f16b3a131156a834ab&)
+![App Screenshot](https://cdn.discordapp.com/attachments/648520680140439598/1423865225706209300/saves.png?ex=68e1dd53&is=68e08bd3&hm=c8714aa40376f1f43ddb45519ef674e7807bae188f16b3b182e34d6c9b3f8feb&)
 
 
 ## Disclaimer
