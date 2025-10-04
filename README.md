@@ -2,22 +2,21 @@
 ![Logo](https://cdn.discordapp.com/attachments/648520680140439598/1423851301019717693/Tony_Hawks_Pro_Skater_-_logo-2.png?ex=68e1d05c&is=68e07edc&hm=9562b02af943e00363c44f1c7ffa7efba2717999fefeef1020adaf5d4973804f&)
 
 
-## *"Or did we mean to say savior?"*
+## 🛹 *"Or did we mean to say savior?"*
 
 The aim of this project is having the presence of a simple digital archive that lets you download 100% save files for various Tony Hawk games since most of them either seem to be gone from the old Internet or the available links themselves are broken and unreachable. 
 
 
 
 
-## Installation
+## 🔧 Installation
 
 Just drag and drop the provided file(s) onto the required folder to skip your favorite game's story mode and start digging for clips, transfers or simply enjoy a fully unlocked game and limitless arcade experience without having the need to invest your own (and probably) limited time into these arduous tasks. When in doubt, simply read the tutorial each packaged download's README has.
     
-## Screenshots
-
+## 📸 Screenshots
 ![App Screenshot](https://cdn.discordapp.com/attachments/648520680140439598/1423865225706209300/saves.png?ex=68e1dd53&is=68e08bd3&hm=c8714aa40376f1f43ddb45519ef674e7807bae188f16b3b182e34d6c9b3f8feb&)
 
 
-## Disclaimer
+## ❗Disclaimer
 
 Our save files don't contain BBcas or any external modifications. In case they do and we haven't noticed since anybody can make mistakes, make sure to let us know and we'll correct it right away. 
