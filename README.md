@@ -14,8 +14,7 @@ The aim of this project is having the presence of a simple digital archive that 
 Just drag and drop the provided file(s) onto the required folder to skip your favorite game's story mode and start digging for clips, transfers or simply enjoy a fully unlocked game and limitless arcade experience without having the need to invest your own (and probably) limited time into these arduous tasks. When in doubt, simply read the tutorial each packaged download's README has.
     
 ## 📸 Screenshots
-![App Screenshot](https://cdn.discordapp.com/attachments/648520680140439598/1423865225706209300/saves.png?ex=68e1dd53&is=68e08bd3&hm=c8714aa40376f1f43ddb45519ef674e7807bae188f16b3b182e34d6c9b3f8feb&)
-
+<p align="center"> <img width="650" height="3000" src="https://cdn.discordapp.com/attachments/648520680140439598/1423865225706209300/saves.png?ex=68e1dd53&is=68e08bd3&hm=c8714aa40376f1f43ddb45519ef674e7807bae188f16b3b182e34d6c9b3f8feb&"> </p>
 
 ## ❗Disclaimer
 
