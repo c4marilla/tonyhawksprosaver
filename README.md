@@ -20,6 +20,4 @@ Just drag and drop the provided file(s) onto the required folder to skip your fa
 
 ## ❗Disclaimer
 
-My save files don't contain BBcas or any external modifications. In case they do and I haven't noticed since anybody can make mistakes, make sure to let me know and I'll correct it right away.
-
-The THAW CAS has been tested both offline and online and the manual/balance tests indicate no tampering since the score values are the usual ones.
+My save files don't contain BBcas or any external modifications. In case they do and I haven't noticed since anybody can make mistakes, make sure to let me know and I'll correct any irregularities right away.
