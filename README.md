@@ -1,5 +1,5 @@
 
-![Logo](https://cdn.discordapp.com/attachments/648520680140439598/1423851301019717693/Tony_Hawks_Pro_Skater_-_logo-2.png?ex=68e1d05c&is=68e07edc&hm=9562b02af943e00363c44f1c7ffa7efba2717999fefeef1020adaf5d4973804f&)
+![Logo](https://i.imgur.com/VzjFXDS.png&)
 
 
 ## 🛹 *"Or did I mean to say savior?"*
